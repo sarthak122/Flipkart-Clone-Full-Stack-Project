@@ -295,6 +295,7 @@ footer{
 .footer-col-2{
     width: 15%;
 }
+
 .footer-col-3{
     width: 15%;
 }
@@ -356,7 +357,11 @@ footer{
     color: rgb(60,109,245);
     cursor: pointer;
 }
-.footer-row2-col p{
+.footer-row2
+{
+    color: white;
+}
+/* .footer-row2-col p{
   color: white;
     font-size: 15px;
     font-weight: 100px;
@@ -371,4 +376,4 @@ footer{
     cursor: pointer;
    padding-right: 10px;
    font-size: 15px;
-}
+} */
